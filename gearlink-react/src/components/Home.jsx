@@ -4,7 +4,7 @@ import Feature from './Feature'
 import WhyChoose from './WhyChoose'
 import Services from './Services'
 import Appoinment from './Appointment'
-import Team from './Team'
+
 import Categories from './Categories'
 import Brands from './Brands'
 import Newsletter from './NewsLetter'
